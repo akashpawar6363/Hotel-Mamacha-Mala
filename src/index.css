@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom smooth scroll behavior */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom styles for Marathi text */
+.marathi-text {
+  font-family: 'Noto Sans Devanagari', sans-serif;
+}
+
+/* Custom button styles */
+@layer components {
+  .btn-warm {
+    @apply bg-warm-orange hover:bg-warm-red text-white px-6 py-3 rounded-lg font-medium transition-colors duration-300;
+  }
+  
+  .section-padding {
+    @apply py-16 px-4 sm:px-6 lg:px-8;
+  }
+}
