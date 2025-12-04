@@ -121,7 +121,7 @@ const MenuSection = () => {
           <div className="bg-gradient-to-br from-warm-yellow to-warm-orange rounded-lg p-8 shadow-lg text-center">
             <div className="mb-6">
               <h3 className="text-2xl font-bold text-white mb-2 marathi-text">
-                हॉटेल मामाच्या मळा
+                हॉटेल मामाचा मळा
               </h3>
               <p className="text-white/90">
                 Hotel Mamacha Mala
