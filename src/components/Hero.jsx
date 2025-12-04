@@ -28,6 +28,10 @@ const Hero = () => {
         </h1>
         
         <h2 className="text-xl sm:text-2xl lg:text-3xl font-semibold mb-6 text-warm-yellow">
+          चुलीवरची मटण भाकरी
+        </h2>
+
+        <h2 className="text-xl sm:text-2xl lg:text-3xl font-semibold mb-6 text-warm-yellow">
           Authentic Maharashtrian & Indian Cuisine
         </h2>
         
