@@ -59,7 +59,7 @@ const Navbar = () => {
               {/* Brand Text */}
               <div className="flex flex-col">
                 <h1 className="text-lg lg:text-xl font-bold text-warm-red marathi-text">
-                  हॉटेल मामाच्या मळा
+                  हॉटेल मामाचा मळा
                 </h1>
                 <p className="text-xs lg:text-sm text-warm-brown -mt-1">
                   Hotel Mamacha Mala

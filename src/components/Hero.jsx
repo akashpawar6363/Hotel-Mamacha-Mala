@@ -24,7 +24,7 @@ const Hero = () => {
       {/* Content */}
       <div className="relative z-10 text-center text-white px-4 sm:px-6 lg:px-8 max-w-4xl mx-auto">
         <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-4 marathi-text">
-          हॉटेल मामाच्या मळा
+          हॉटेल मामाचा मळा
         </h1>
         
         <h2 className="text-xl sm:text-2xl lg:text-3xl font-semibold mb-6 text-warm-yellow">
