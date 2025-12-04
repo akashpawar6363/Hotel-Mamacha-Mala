@@ -38,7 +38,7 @@ const Footer = () => {
               {/* Brand Text */}
               <div>
                 <h3 className="text-2xl font-bold text-white marathi-text mb-2">
-                  हॉटेल मामाच्या मळा
+                  हॉटेल मामाचा मळा
                 </h3>
                 <p className="text-gray-300 text-sm">Hotel Mamacha Mala</p>
               </div>
